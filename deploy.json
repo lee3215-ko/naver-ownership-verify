@@ -1,0 +1,35 @@
+{
+  "github_owner": "lee3215-ko",
+  "github_repo": "naver-ownership-verify",
+  "release_asset": "NaverOwnership.zip",
+  "default_bump": "patch",
+  "app_display_name": "네이버 소유확인",
+  "version": {
+    "file": "paths.py",
+    "variable": "APP_VERSION"
+  },
+  "build": {
+    "script": "build.bat",
+    "dist_dir": "release/NaverOwnership"
+  },
+  "git_add": [
+    ".gitignore",
+    "README.md",
+    "paths.py",
+    "app.py",
+    "run.py",
+    "ownership_verify.py",
+    "make_icon.py",
+    "build.bat",
+    "build.spec",
+    "requirements.txt",
+    "updater.py",
+    "update_ui.py",
+    "deploy.json",
+    "version.json",
+    "src",
+    "assets",
+    "scripts",
+    "data/.gitkeep"
+  ]
+}

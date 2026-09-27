@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
-  "url": "https://api.github.com/repos/lee3215-ko/naver-ownership-verify/releases/assets/",
+  "url": "https://api.github.com/repos/lee3215-ko/naver-ownership-verify/releases/assets/592059693",
   "download_url": "https://github.com/lee3215-ko/naver-ownership-verify/releases/download/v1.0.0/NaverOwnership.zip",
-  "api_download_url": "https://api.github.com/repos/lee3215-ko/naver-ownership-verify/releases/assets/",
-  "asset_id": ,
+  "api_download_url": "https://api.github.com/repos/lee3215-ko/naver-ownership-verify/releases/assets/592059693",
+  "asset_id": 592059693,
   "download_urls": [
-    "https://api.github.com/repos/lee3215-ko/naver-ownership-verify/releases/assets/",
+    "https://api.github.com/repos/lee3215-ko/naver-ownership-verify/releases/assets/592059693",
     "https://github.com/lee3215-ko/naver-ownership-verify/releases/download/v1.0.0/NaverOwnership.zip",
     "https://github.com/lee3215-ko/naver-ownership-verify/releases/latest/download/NaverOwnership.zip"
   ],
